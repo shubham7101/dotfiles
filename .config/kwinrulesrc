@@ -1,0 +1,14 @@
+[64c2dcc3-ba2e-467e-9432-47d620173d53]
+Description=kitty
+noborder=true
+noborderrule=2
+opacityactive=85
+opacityactiverule=1
+opacityinactive=85
+opacityinactiverule=1
+wmclass=kitty
+wmclassmatch=1
+
+[General]
+count=1
+rules=64c2dcc3-ba2e-467e-9432-47d620173d53
